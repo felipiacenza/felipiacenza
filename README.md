@@ -1,5 +1,13 @@
 # 💫 About Me:
-👋 ¡Hola! Soy Felipe Piacenza, aunque mis amigos me dicen Pipe o Pippen. Soy un estudiante de sistemas de 19 años, oriundo de Montevideo, Uruguay. Mi entusiasmo por la tecnología y la resolución de problemas me impulsa a aprender constantemente y explorar nuevas fronteras en el mundo del desarrollo.<br><br>🔍 Desde que empecé mi viaje en la programación, he estado inmerso en una variedad de tecnologías y proyectos. Me encanta enfrentar desafíos y encontrar soluciones innovadoras que no solo resuelvan problemas, sino que también mejoren la experiencia del usuario.<br><br>🚀 Actualmente, estoy enfocado en un e-commerce utilizando JS, node, express y postgreSQL, entre otras tecnologías. Mi objetivo es seguir creciendo como desarrollador y contribuir a proyectos de diferente índole.<br><br>💬 Estoy siempre abierto a nuevas oportunidades y colaboraciones. Si tienes alguna idea interesante o simplemente quieres charlar sobre tecnología, ¡no dudes en contactarme!<br><br>🌐 Puedes seguir mi trabajo y mis proyectos aquí en GitHub. ¡Gracias por visitar mi perfil!
+👋 Hi! I'm Felipe Piacenza, but my friends call me Pipe or Pippen. I'm a 19-year-old systems student from Montevideo, Uruguay. My enthusiasm for technology and problem-solving drives me to constantly learn and explore new frontiers in the development world.
+
+🔍 Since I started my journey in programming, I have immersed myself in a variety of technologies and projects. I love tackling challenges and finding innovative solutions that not only solve problems but also enhance the user experience.
+
+🚀 Currently, I'm focused on an e-commerce project using JS, Node, Express, and PostgreSQL, among other technologies. My goal is to continue growing as a developer and contribute to different kinds of projects.
+
+💬 I'm always open to new opportunities and collaborations. If you have an interesting idea or just want to chat about technology, feel free to contact me!
+
+🌐 You can follow my work and projects here on GitHub. Thanks for visiting my profile!
 
 
 ## 🌐 Socials:
