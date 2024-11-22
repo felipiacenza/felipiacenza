@@ -1,25 +1,52 @@
-# 💫 About Me:
-🔭 I’m currently working on personal projects and academic assignments<br>👯 I’m looking to collaborate on open-source projects (available to collaborate)<br>🌱 I’m currently deepening my knowledge of Java and database systems while learning Rust from scratch.
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=35&duration=3000&pause=500&center=true&vCenter=true&width=475&height=65&lines=Hi+there!%F0%9F%91%8B;I+am+Felipe+Piacenza+%F0%9F%98%81" alt="Typing SVG" /></a>
+</div>
 
+<hr>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipepiacenza) 
+<h3 align="center">A passionate student of the fine arts of programming</h3>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=felipiacenza&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=felipiacenza&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipiacenza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<hr>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=felipiacenza&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+ 
+🔭 I’m currently working on personal projects and academic assignments.
 
----
-[![](https://visitcount.itsvg.in/api?id=felipiacenza&icon=0&color=6)](https://visitcount.itsvg.in)
+👯 I’m looking to collaborate on open-source projects.
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/pippen) 
+🌱 I’m currently deepening my knowledge of Java and database systems while learning **Rust** from scratch.
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ </div>
+
+ <div align="center"> 
+  <a href="mailto:piacenzafelipe@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/felipepiacenza" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
+
+<h3 align="center">💻 Tech Stack:</h3>
+<h4 align="center">🌐 Languages & 💾 Databases:</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,php,mysql,mongodb" />
+  </a>
+</p>
+
+<h4 align="center">🔀 Version Control & 🔧 Other Techs:</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,notion,bash" />
+  </a>
+</p>
+
+<h3 align="center">💎 Currently learning:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,java,mysql" />
+  </a>
+</p>
