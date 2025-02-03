@@ -4,7 +4,7 @@
 
 <hr>
 
-<h3 align="center">A passionate student of the fine arts of programming</h3>
+<h3 align="center">A student with a passion for the fine arts of software development</h3>
 
 <hr>
 
@@ -14,7 +14,7 @@
 
 👯 I’m looking to collaborate on open-source projects.
 
-🌱 I’m currently deepening my knowledge of Java and database systems while learning **Rust** from scratch.
+🌱 I’m currently deepening my knowledge of **Javascript** and database systems while learning **Node.js** and **React** from scratch.
 
  </div>
 
@@ -29,25 +29,32 @@
 
 <hr>
 
-<h3 align="center">💻 Tech Stack:</h3>
+<h3 align="center">💻 Main Tech Stack:</h3>
 <h4 align="center">🌐 Languages & 💾 Databases:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,php,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,js,postgres" />
   </a>
 </p>
 
 <h4 align="center">🔀 Version Control & 🔧 Other Techs:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,notion,bash" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,notion,bash,linux" />
   </a>
 </p>
 
-<h3 align="center">💎 Currently learning:</h3>
+<h3 align="center">🤓 Acquainted with:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,java,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,php,dotnet,mongodb,html,css" />
+  </a>
+</p>
+
+<h3 align="center">💎 Currently focusing on (and learning):</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,postgres,nodejs,react" />
   </a>
 </p>
 
