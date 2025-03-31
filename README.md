@@ -12,9 +12,9 @@
  
 🔭 I’m currently working on personal projects and academic assignments.
 
-👯 I’m looking to collaborate on open-source projects.
+👯 Available to contribute to open-source projects
 
-🌱 I’m currently deepening my knowledge of **Javascript** and database systems while learning **Node.js** and **React** from scratch.
+🌱 I am currently learning **C#**, **Java** and **database systems** more in depth.
 
  </div>
 
@@ -33,7 +33,7 @@
 <h4 align="center">🌐 Languages & 💾 Databases:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,js,postgres" />
+    <img src="https://skillicons.dev/icons?i=cs,postgres" />
   </a>
 </p>
 
@@ -47,14 +47,14 @@
 <h3 align="center">🤓 Acquainted with:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,dotnet,mongodb,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,dotnet,mongodb,html,css" />
   </a>
 </p>
 
 <h3 align="center">💎 Currently focusing on (and learning):</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,postgres,nodejs,react" />
+    <img src="https://skillicons.dev/icons?i=cs,java,postgres" />
   </a>
 </p>
 
