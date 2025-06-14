@@ -4,7 +4,7 @@
 
 <hr>
 
-<h3 align="center">A student with a passion for the fine arts of software development</h3>
+<h3 align="center">A student with a passion for the fine arts of software development!</h3>
 
 <hr>
 
@@ -14,49 +14,34 @@
 
 👯 Available to contribute to open-source projects
 
-🌱 I am currently learning **C#**, **Java** and **database systems** more in depth.
+🌱 I am currently learning **C#**, **.NET**, **database systems** more in depth and every now and then with **Java**.
 
  </div>
-
- <div align="center"> 
-  <a href="mailto:piacenzafelipe@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/felipepiacenza" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
 
 <hr>
 
 <h3 align="center">💻 Main Tech Stack:</h3>
 <h4 align="center">🌐 Languages & 💾 Databases:</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,postgres" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet" />
 </p>
 
-<h4 align="center">🔀 Version Control & 🔧 Other Techs:</h4>
+<h4 align="center">🔧 Other Techs:</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,notion,bash,linux" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=docker,bash,linux,notion" />
 </p>
 
 <h3 align="center">🤓 Acquainted with:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,dotnet,mongodb,html,css" />
-  </a>
-</p>
-
-<h3 align="center">💎 Currently focusing on (and learning):</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,postgres" />
-  </a>
-</p>
+  <div>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+    </p>
+  </div>
+  <div>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+    </p>
+  </div>
 
 <hr>
 
