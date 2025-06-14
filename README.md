@@ -47,8 +47,9 @@
 
 <h3 align="center">📊 Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipiacenza&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=felipiacenza&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipiacenza&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=felipiacenza&theme=github-dark-blue&hide_border=true&border_radius=12&card_width=500&card_height=300" alt="GitHub Streak" /></a>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipiacenza&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
