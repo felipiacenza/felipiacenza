@@ -14,7 +14,7 @@
 
 👯 Available to contribute to open-source projects
 
-🌱 I am currently learning **C#**, **.NET**, **database systems** more in depth and every now and then with **Java**.
+🌱 I am currently learning **.NET** and **database systems** more in depth and every now and then with **Java**.
 
  </div>
 
@@ -23,23 +23,23 @@
 <h3 align="center">💻 Main Tech Stack:</h3>
 <h4 align="center">🌐 Languages & 💾 Databases:</h4>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=java,dotnet,mysql" />
 </p>
 
 <h4 align="center">🔧 Other Techs:</h4>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,bash,linux,notion" />
+    <img src="https://skillicons.dev/icons?i=docker,bash,linux" />
 </p>
 
 <h3 align="center">🤓 Acquainted with:</h3>
   <div>
     <p align="center">
-      <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+      <img src="https://skillicons.dev/icons?i=js,html,css" />
     </p>
   </div>
   <div>
     <p align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+      <img src="https://skillicons.dev/icons?i=mongodb" />
     </p>
   </div>
 
@@ -47,8 +47,6 @@
 
 <h3 align="center">📊 Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipiacenza&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipiacenza&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=felipiacenza&theme=github-dark-blue&hide_border=true&border_radius=12&card_width=500&card_height=300" alt="GitHub Streak" /></a>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipiacenza&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
