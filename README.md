@@ -47,7 +47,6 @@
 
 <h3 align="center">📊 Stats:</h3>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=felipiacenza&theme=github-dark-blue&hide_border=true&border_radius=12&card_width=500&card_height=300" alt="GitHub Streak" /></a>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipiacenza&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
