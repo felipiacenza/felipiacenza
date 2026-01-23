@@ -14,7 +14,7 @@
 
 👯 Available to contribute to open-source projects
 
-🌱 I am currently learning **.NET** and **database systems** more in depth and every now and then with **Java**.
+🌱 I am currently learning **.NET** and **database systems** more in depth and every now and then with **Python**.
 
  </div>
 
@@ -23,7 +23,7 @@
 <h3 align="center">💻 Main Tech Stack:</h3>
 <h4 align="center">🌐 Languages & 💾 Databases:</h4>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,dotnet,mysql" />
+    <img src="https://skillicons.dev/icons?i=dotnet,mysql,py" />
 </p>
 
 <h4 align="center">🔧 Other Techs:</h4>
