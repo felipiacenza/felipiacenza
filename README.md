@@ -1,58 +1,44 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=35&duration=3000&pause=500&center=true&vCenter=true&width=475&height=65&lines=Hi+there!%F0%9F%91%8B;I+am+Felipe+Piacenza+%F0%9F%98%81" alt="Typing SVG" /></a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto\&weight=700\&size=35\&duration=3000\&pause=500\&center=true\&vCenter=true\&width=550\&height=65\&lines=Hi+there!+%F0%9F%91%8B;I'm+Felipe+%F0%9F%98%81)](https://git.io/typing-svg)
+
+### Systems student · Backend development · Software architecture
+
 </div>
 
-<hr>
+---
 
-<h3 align="center">A student with a passion for the fine arts of software development!</h3>
+## 👨‍💻 About me
 
-<hr>
+I'm an **Information Systems student** interested in understanding not only how software works, but how to design and build it well.
+
+* 🌱 Diving deeper into **.NET**, **software architecture**, and **design patterns**
+* 🗄️ Interested in **databases** and how they shape backend systems
+* 🐧 Exploring **Linux**, **containers**, **cloud**, and **self-hosting**
+* 🤝 Open to contributing to **open-source**
+* 💼 Strongly interested in **applying technology to business** and **business thinking to technology**
+* 📚 Always looking to improve my **software development practices**
+
+---
+
+## 🧰 Tech & Tools
+
+**Backend & Database**
+
+[![Backend](https://skillicons.dev/icons?i=dotnet,mysql)](https://skillicons.dev)
+
+**Web**
+
+[![Web](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+**Development Environment**
+
+[![Environment](https://skillicons.dev/icons?i=rider,vscode,docker)](https://skillicons.dev)
+
+---
 
 <div align="center">
- 
-🔭 I’m currently working on personal projects and academic assignments.
 
-👯 Available to contribute to open-source projects
+![Snake animation](https://raw.githubusercontent.com/felipiacenza/felipiacenza/output/snake.svg)
 
-🌱 I am currently learning **.NET** and **database systems** more in depth and every now and then with **Python**.
-
- </div>
-
-<hr>
-
-<h3 align="center">💻 Main Tech Stack:</h3>
-<h4 align="center">🌐 Languages & 💾 Databases:</h4>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet,mysql,py" />
-</p>
-
-<h4 align="center">🔧 Other Techs:</h4>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,bash,linux" />
-</p>
-
-<h3 align="center">🤓 Acquainted with:</h3>
-  <div>
-    <p align="center">
-      <img src="https://skillicons.dev/icons?i=js,html,css" />
-    </p>
-  </div>
-  <div>
-    <p align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" />
-    </p>
-  </div>
-
-<hr>
-
-<h3 align="center">📊 Stats:</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipiacenza&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-
-<hr>
-
-<h3 align="center">🐍 My contributions:</h3>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/felipiacenza/felipiacenza/output/snake.svg" alt="Snake animation" />
 </div>
